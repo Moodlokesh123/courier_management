@@ -7,7 +7,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'ip833lhxyl8_la80az&u_q6ua_h5e3zm_bd(49!$+6_2g7i@mr'
 
 # SECURITY WARNING: turn OFF debug in production
-DEBUG = False
+DEBUG = True
 
 # Allowed Hosts
 ALLOWED_HOSTS = [
